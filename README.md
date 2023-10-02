@@ -37,3 +37,6 @@ The primary objective of this project is to craft an open-source website dedicat
 2. **Sticky Navbar:** Create an adaptive and sticky navigation bar that seamlessly transforms to suit varying screen sizes, ensuring an uninterrupted and user-friendly experience, particularly on mobile devices.
 
 3. **CSS Enhancements:** Elevate the aesthetic and user experience with features such as self-scrolling at defined intervals, seamless mouse, keypad, and touch-based scrollability, user-friendly artifact carousels, and an elegant, royal-themed preloader. Endeavor to imbue dynamism into static components wherever feasible.
+
+# Video Demonstration #
+Link: https://drive.google.com/file/d/1op4adNwUmnyvGctA35nHJDv3Jnd2ucHu/view?usp=sharing
